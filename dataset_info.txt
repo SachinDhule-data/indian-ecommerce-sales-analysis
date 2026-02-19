@@ -1,0 +1,7 @@
+Dataset Source: Kaggle – Indian E-commerce Dataset
+Files used:
+- List of Orders.csv
+- Order Details.csv
+- Sales target.csv
+
+Dataset is not uploaded due to size restrictions.
