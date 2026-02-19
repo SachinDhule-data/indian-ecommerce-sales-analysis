@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Profitability Analysis (Data Analyst Project)
+# 📊 Sales Performance & Profitability Analysis (Data Analyst Project Using paython)
 
 ## 🧾 Project Summary
 This project demonstrates an end-to-end **Data Analyst workflow** using Python.  
